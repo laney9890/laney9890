@@ -5,7 +5,7 @@ Web3 developer building real products on blockchain.
 ## 🚀 What I Built
 
 ### AgentBazaar — AI Agent Marketplace on Arc Network
-- 🌐 **Live:** [agentbazaar-lemon.vercel.app](https://agentbazaar-lemon.vercel.app)
+- 🌐 **Live:** [agentbazaar-lemon.vercel.app](https://laney9890.github.io/agentbazaar/)
 - 💻 **GitHub:** [laney9890/agentbazaar](https://github.com/laney9890/agentbazaar)
 - Hire AI agents and pay with USDC on Arc Network
 - Trustless escrow smart contracts on Arc Testnet
